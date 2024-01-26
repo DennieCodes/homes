@@ -1,3 +1,2 @@
 # Homes
-
-The tutorial project from Angular.io
+Tutorial project from Angular.io
